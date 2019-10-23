@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{47:function(e){e.exports=JSON.parse('{"id":"tags","title":"Tags","sidebar_label":"Tags","description":"import { ","source":"@site/docs/tags.mdx","permalink":"/docs/tags","sidebar":"docs","category":"Reference Documentation"}')}}]);
