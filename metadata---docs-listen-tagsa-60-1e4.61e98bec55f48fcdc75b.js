@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{47:function(s){s.exports=JSON.parse('{"id":"listen-tags","title":"Listen Tags","sidebar_label":"Listen Tags","description":"import { ","source":"@site/docs/listen-tags.mdx","permalink":"/docs/listen-tags","sidebar":"docs","category":"Reference Documentation","previous":"tags","previous_title":"Tags"}')}}]);
