@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{43:function(s){s.exports=JSON.parse('{"id":"tags","title":"Tags","sidebar_label":"Tags","description":"AUX has many tags.","source":"@site/docs/tags.mdx","permalink":"/docs/tags","sidebar":"docs","category":"Reference Documentation","next":"listen-tags","next_title":"Listen Tags"}')}}]);
