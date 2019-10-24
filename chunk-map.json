@@ -1,96 +1,34 @@
 {
   "main": [
     "/main.e939f8b30fbe7235deff.css",
-    "/main.977bbd6ba247f346c144.js"
+    "/main.f684fd1e6d33084bd27c.js"
   ],
   "component---site-src-pages-index-jsc-4-f-f99": [
     "/component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css",
-    "/component---site-src-pages-index-jsc-4-f-f99.3bc1aedea960669fb293.js"
+    "/component---site-src-pages-index-jsc-4-f-f99.a42d1c756d398b8eafbc.js"
   ],
-  "component---theme-blog-post-pageccc-cab": [
-    "/component---theme-blog-post-pageccc-cab.0238364ec3bfd7b8f0de.js"
-  ],
-  "content---blog-welcome-286-e55": [
-    "/content---blog-welcome-286-e55.56d43f42b0db533a3afd.js"
-  ],
-  "metadata---blog-welcome-2-a-9-6e0": [
-    "/metadata---blog-welcome-2-a-9-6e0.3966a1b588319546fd61.js"
-  ],
-  "nextItem---blog-welcomeda-0-586": [
-    "/nextItem---blog-welcomeda-0-586.894b3aa966e2616eb362.js"
-  ],
-  "content---blog-hello-worldd-61-086": [
-    "/content---blog-hello-worldd-61-086.ab15c84a8d6435f29ce2.js"
-  ],
-  "nextItem---blog-hello-world-4-ce-dad": [
-    "/nextItem---blog-hello-world-4-ce-dad.19a2c12106892f71247f.js"
-  ],
-  "content---blog-holabdd-150": [
-    "/content---blog-holabdd-150.5098e8944c91d689ae0a.js"
-  ],
-  "component---theme-doc-legacy-page-9-e-7-ca5": [
-    "/component---theme-doc-legacy-page-9-e-7-ca5.3c38a2f40a51efdd72a0.css",
-    "/component---theme-doc-legacy-page-9-e-7-ca5.f7cbfaab8cb14a355e3e.js"
-  ],
+  "component---theme-doc-legacy-page-9-e-7-ca5": [],
   "docsMetadata---docse-90-18f": [
-    "/docsMetadata---docse-90-18f.63085d0f6167e1dad750.js"
+    "/docsMetadata---docse-90-18f.496047c4e516d8b170c9.js"
   ],
   "component---theme-doc-legacy-item-031-769": [
     "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
-    "/component---theme-doc-legacy-item-031-769.c1860c0343739d493106.js"
+    "/component---theme-doc-legacy-item-031-769.a89335b7d16c376a8ee9.js"
   ],
-  "content---docs-components-85-c-3a3": [
-    "/content---docs-components-85-c-3a3.1573feaef20977902c74.js"
-  ],
+  "content---docs-components-85-c-3a3": [],
   "metadata---docs-components-3-d-1-913": [
-    "/metadata---docs-components-3-d-1-913.db57fd636395a0b6b620.js"
-  ],
-  "content---docs-tags-118-daf": [
-    "/content---docs-tags-118-daf.59c6cc69413df3838237.js"
-  ],
-  "metadata---docs-tags-862-42c": [
-    "/metadata---docs-tags-862-42c.400f82c238f80431460d.js"
+    "/metadata---docs-components-3-d-1-913.5d3599ae5f24a755c6d3.js"
   ],
   "content---docs-listen-tagsf-9-a-6b4": [
-    "/content---docs-listen-tagsf-9-a-6b4.ae24cc5b01ab36a93d9e.js"
+    "/content---docs-listen-tagsf-9-a-6b4.f05572db16de164d16b7.js"
   ],
   "metadata---docs-listen-tagsa-60-1e4": [
-    "/metadata---docs-listen-tagsa-60-1e4.8da863ff1df480c471be.js"
+    "/metadata---docs-listen-tagsa-60-1e4.c292dcbd025cb8b543ce.js"
   ],
-  "component---theme-blog-list-pagea-6-a-7ba": [
-    "/component---theme-blog-list-pagea-6-a-7ba.b86e0934ad46f5773954.js"
+  "content---docs-tags-118-daf": [
+    "/content---docs-tags-118-daf.f4128fa705c63057d6f1.js"
   ],
-  "content---blogaf-1-856": [
-    "/content---blogaf-1-856.8703dc50d1789be49fa3.js"
-  ],
-  "content---blog-357-22b": [
-    "/content---blog-357-22b.4350d8ad7d7f6b8e0418.js"
-  ],
-  "content---blog-8-e-9-35c": [
-    "/content---blog-8-e-9-35c.bc6d62d2a9e1c2271d5e.js"
-  ],
-  "metadata---blog-07-e-f1b": [
-    "/metadata---blog-07-e-f1b.51195b1879011432a7dc.js"
-  ],
-  "component---theme-blog-tags-posts-page-687-b6c": [
-    "/component---theme-blog-tags-posts-page-687-b6c.2e77c08a01915769b752.js"
-  ],
-  "metadata---blog-tags-facebooke-4-e-efb": [
-    "/metadata---blog-tags-facebooke-4-e-efb.434f67febf378a362435.js"
-  ],
-  "metadata---blog-tags-docusaurusea-7-aba": [
-    "/metadata---blog-tags-docusaurusea-7-aba.ca6db9093d9eaee8f1b9.js"
-  ],
-  "metadata---blog-tags-hello-006-e10": [
-    "/metadata---blog-tags-hello-006-e10.3634477adfda088ef0d4.js"
-  ],
-  "metadata---blog-tags-hola-4-d-5-106": [
-    "/metadata---blog-tags-hola-4-d-5-106.4c63ec5906980c77a741.js"
-  ],
-  "component---theme-blog-tags-list-page-01-a-d0b": [
-    "/component---theme-blog-tags-list-page-01-a-d0b.4cdf2e5b5b7dc6a9f881.js"
-  ],
-  "tags---blog-tags-7-f-2-48f": [
-    "/tags---blog-tags-7-f-2-48f.6eae1ea2258f076931cd.js"
+  "metadata---docs-tags-862-42c": [
+    "/metadata---docs-tags-862-42c.bfa71e52f7e385c27851.js"
   ]
 }
