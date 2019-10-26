@@ -1,34 +1,40 @@
 {
   "main": [
     "/main.cd4ce7d816eaabe2cb1d.css",
-    "/main.f684fd1e6d33084bd27c.js"
+    "/main.738ef1572301c53b51ac.js"
   ],
   "component---site-src-pages-index-jsc-4-f-f99": [
     "/component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css",
-    "/component---site-src-pages-index-jsc-4-f-f99.a42d1c756d398b8eafbc.js"
+    "/component---site-src-pages-index-jsc-4-f-f99.438979968f8386e0dcda.js"
   ],
   "component---theme-doc-legacy-page-9-e-7-ca5": [],
   "docsMetadata---docse-90-18f": [
-    "/docsMetadata---docse-90-18f.496047c4e516d8b170c9.js"
+    "/docsMetadata---docse-90-18f.442de7e0abd23ff1f03b.js"
   ],
   "component---theme-doc-legacy-item-031-769": [
     "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
-    "/component---theme-doc-legacy-item-031-769.a89335b7d16c376a8ee9.js"
+    "/component---theme-doc-legacy-item-031-769.c16b21ea6e8608dd8e65.js"
+  ],
+  "content---docs-actionsa-36-46c": [
+    "/content---docs-actionsa-36-46c.1327ed030b2c626f322f.js"
+  ],
+  "metadata---docs-actions-5-df-d98": [
+    "/metadata---docs-actions-5-df-d98.d2d31d08970bd3ebc703.js"
   ],
   "content---docs-components-85-c-3a3": [],
   "metadata---docs-components-3-d-1-913": [
-    "/metadata---docs-components-3-d-1-913.5d3599ae5f24a755c6d3.js"
+    "/metadata---docs-components-3-d-1-913.52cc929b337e33254afb.js"
   ],
   "content---docs-listen-tagsf-9-a-6b4": [
-    "/content---docs-listen-tagsf-9-a-6b4.349c1b42b1022804903f.js"
+    "/content---docs-listen-tagsf-9-a-6b4.5785de889cf2767f5b1f.js"
   ],
   "metadata---docs-listen-tagsa-60-1e4": [
-    "/metadata---docs-listen-tagsa-60-1e4.c292dcbd025cb8b543ce.js"
+    "/metadata---docs-listen-tagsa-60-1e4.78c1d1d489d2a6f4d4c6.js"
   ],
   "content---docs-tags-118-daf": [
-    "/content---docs-tags-118-daf.f4128fa705c63057d6f1.js"
+    "/content---docs-tags-118-daf.d728723fde9718cb4d05.js"
   ],
   "metadata---docs-tags-862-42c": [
-    "/metadata---docs-tags-862-42c.bfa71e52f7e385c27851.js"
+    "/metadata---docs-tags-862-42c.9a936d49fd519344b5be.js"
   ]
 }
