@@ -1,40 +1,40 @@
 {
   "main": [
-    "/main.cd4ce7d816eaabe2cb1d.css",
-    "/main.b55470a1279b86f23343.js"
+    "/main.4210e3d8817658d32553.css",
+    "/main.e71f1b168feb440d7bf7.js"
   ],
   "component---site-src-pages-index-jsc-4-f-f99": [
     "/component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css",
-    "/component---site-src-pages-index-jsc-4-f-f99.bf666747fd7963032c24.js"
+    "/component---site-src-pages-index-jsc-4-f-f99.9bac5072e7c4566f1175.js"
   ],
-  "component---theme-doc-legacy-page-9-e-7-ca5": [],
-  "docsMetadata---docse-90-18f": [
-    "/docsMetadata---docse-90-18f.50fcbe5efb2192a426e5.js"
+  "component---theme-doc-page-1-be-9be": [],
+  "docsMetadata---docs-1-da-721": [
+    "/docsMetadata---docs-1-da-721.b27d0750316655c89277.js"
   ],
-  "component---theme-doc-legacy-item-031-769": [
-    "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
-    "/component---theme-doc-legacy-item-031-769.73d6257832652f64c832.js"
-  ],
-  "content---docs-tags-118-daf": [
-    "/content---docs-tags-118-daf.083f10aba2976ab91623.js"
-  ],
-  "metadata---docs-tags-862-42c": [
-    "/metadata---docs-tags-862-42c.fed394bc00b33b4c803a.js"
+  "component---theme-doc-item-178-a40": [
+    "/component---theme-doc-item-178-a40.de2648345892298aff25.css",
+    "/component---theme-doc-item-178-a40.7a0a97f55ff6ed3c3a66.js"
   ],
   "content---docs-actionsa-36-46c": [
-    "/content---docs-actionsa-36-46c.1e9f25c1eb1dd20c405c.js"
+    "/content---docs-actionsa-36-46c.6207924c587bb60e0b48.js"
   ],
-  "metadata---docs-actions-5-df-d98": [
-    "/metadata---docs-actions-5-df-d98.9fe18d494a210f8bf988.js"
+  "metadata---docs-actions-4-d-5-165": [
+    "/metadata---docs-actions-4-d-5-165.a846dc149bb229fb022f.js"
   ],
   "content---docs-components-85-c-3a3": [],
-  "metadata---docs-components-3-d-1-913": [
-    "/metadata---docs-components-3-d-1-913.c3a98163a7fc3870a9ab.js"
+  "metadata---docs-components-2-e-8-4d8": [
+    "/metadata---docs-components-2-e-8-4d8.8017a74e52b766bbeeae.js"
+  ],
+  "content---docs-tags-118-daf": [
+    "/content---docs-tags-118-daf.eef3ef3305731e69943d.js"
+  ],
+  "metadata---docs-tagsc-75-e1b": [
+    "/metadata---docs-tagsc-75-e1b.0c1da45ee9430f9abb2c.js"
   ],
   "content---docs-listen-tagsf-9-a-6b4": [
-    "/content---docs-listen-tagsf-9-a-6b4.33bf4e91cc0fed65f302.js"
+    "/content---docs-listen-tagsf-9-a-6b4.5c9d360574806905382b.js"
   ],
-  "metadata---docs-listen-tagsa-60-1e4": [
-    "/metadata---docs-listen-tagsa-60-1e4.c41088c1d90e81d594d1.js"
+  "metadata---docs-listen-tags-346-933": [
+    "/metadata---docs-listen-tags-346-933.50f712ae2d165bde6729.js"
   ]
 }
