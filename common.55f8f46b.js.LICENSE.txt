@@ -1,15 +1,15 @@
 /*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*!
   Copyright (c) 2017 Jed Watson.
   Licensed under the MIT License (MIT), see
   http://jedwatson.github.io/classnames
 */
+
+/*!
+ * is-windows <https://github.com/jonschlinkert/is-windows>
+ *
+ * Copyright © 2015-2018, Jon Schlinkert.
+ * Released under the MIT License.
+ */
 
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation. All rights reserved.
@@ -40,10 +40,3 @@ MERCHANTABLITY OR NON-INFRINGEMENT.
 See the Apache Version 2.0 License for specific language governing permissions
 and limitations under the License.
 ***************************************************************************** */
-
-/*!
- * is-windows <https://github.com/jonschlinkert/is-windows>
- *
- * Copyright © 2015-2018, Jon Schlinkert.
- * Released under the MIT License.
- */
