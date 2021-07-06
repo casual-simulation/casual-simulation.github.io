@@ -1,0 +1,1 @@
+(self.webpackChunkcasual_simulation=self.webpackChunkcasual_simulation||[]).push([[956],{6353:function(t){"use strict";t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"test","permalink":"/blog/test"}]}')}}]);
