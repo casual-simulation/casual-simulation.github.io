@@ -4,14 +4,14 @@
         <title>CasualOS Blog</title>
         <link>https://docs.casualos.com/blog</link>
         <description>CasualOS Blog</description>
-        <lastBuildDate>Tue, 06 Jul 2021 18:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 20:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[test]]></title>
             <link>https://docs.casualos.com/blog/test</link>
             <guid>test</guid>
-            <pubDate>Tue, 06 Jul 2021 18:27:30 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 20:17:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
