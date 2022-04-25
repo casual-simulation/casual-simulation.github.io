@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasual_simulation=self.webpackChunkcasual_simulation||[]).push([[477],{10:function(s){s.exports={blogPosts:[]}}}]);
