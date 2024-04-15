@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.0.1">
 <title data-rh="true">Debugger | CasualOS</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://docs.casualos.com/types/debuggers/debugger"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Debugger | CasualOS"><meta data-rh="true" name="description" content="Defines an interface that represents a debugger."><meta data-rh="true" property="og:description" content="Defines an interface that represents a debugger."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://docs.casualos.com/types/debuggers/debugger"><link data-rh="true" rel="alternate" href="https://docs.casualos.com/types/debuggers/debugger" hreflang="en"><link data-rh="true" rel="alternate" href="https://docs.casualos.com/types/debuggers/debugger" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://TNXB2QF2YB-dsn.algolia.net" crossorigin="anonymous"><link rel="search" type="application/opensearchdescription+xml" title="CasualOS" href="/opensearch.xml"><link rel="stylesheet" href="/assets/css/styles.002d2433.css">
-<script src="/assets/js/runtime~main.10e6024f.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.ed463c09.js" defer="defer"></script>
 <script src="/assets/js/main.d1fdf273.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -82,6 +82,9 @@
 <li><a href="/actions/os/animations#os.bufferFormAddressGLTF"><code>os.bufferFormAddressGLTF(address)</code></a></li>
 <li><a href="/actions/os/audio#os.bufferSound"><code>os.bufferSound(url)</code></a></li>
 <li><a href="/actions/os/portals#os.calculateRayFromCamera"><code>os.calculateRayFromCamera(portal, viewportCoordinates)</code></a></li>
+<li><a href="/actions/os/portals#os.calculateScreenCoordinatesFromViewportCoordinates"><code>os.calculateScreenCoordinatesFromViewportCoordinates(portal, coordinates)</code></a></li>
+<li><a href="/actions/os/portals#os.calculateViewportCoordinatesFromPosition"><code>os.calculateViewportCoordinatesFromPosition(portal, position)</code></a></li>
+<li><a href="/actions/os/portals#os.calculateViewportCoordinatesFromScreenCoordinates"><code>os.calculateViewportCoordinatesFromScreenCoordinates(portal, coordinates)</code></a></li>
 <li><a href="/actions/os/audio#os.cancelSound"><code>os.cancelSound(soundId)</code></a></li>
 <li><a href="/actions/os/camera#os.capturePhoto"><code>os.capturePhoto(options)</code></a></li>
 <li><a href="/actions/os/barcodes#os.closeBarcodeScanner"><code>os.closeBarcodeScanner()</code></a></li>
@@ -110,6 +113,8 @@
 <li><a href="/actions/os/xr#os.enableVR"><code>os.enableVR(options)</code></a></li>
 <li><a href="/actions/os/audio#os.endAudioRecording"><code>os.endAudioRecording()</code></a></li>
 <li><a href="/actions/os/records#os.eraseData"><code>os.eraseData(recordKeyOrName, address, endpoint)</code></a></li>
+<li><a href="/actions/os/records#os.eraseFile-result"><code>os.eraseFile(recordKeyOrName, result, endpoint)</code></a></li>
+<li><a href="/actions/os/records#os.eraseFile-url"><code>os.eraseFile(recordKeyOrName, url, endpoint)</code></a></li>
 <li><a href="/actions/os/records#os.eraseManualApprovalData"><code>os.eraseManualApprovalData(recordKeyOrName, address, endpoint)</code></a></li>
 <li><a href="/actions/os/portals#os.exitFullscreenMode"><code>os.exitFullscreenMode()</code></a></li>
 <li><a href="/actions/os/portals#os.getAverageFrameRate"><code>os.getAverageFrameRate()</code></a></li>
@@ -121,6 +126,8 @@
 <li><a href="/actions/os/portals#os.getCurrentInst"><code>os.getCurrentInst()</code></a></li>
 <li><a href="/actions/os/records#os.getData"><code>os.getData(recordKeyOrName, address, endpoint)</code></a></li>
 <li><a href="/actions/os/portals#os.getDimensionalDepth"><code>os.getDimensionalDepth(dimension)</code></a></li>
+<li><a href="/actions/os/records#os.getFile-result"><code>os.getFile(result, endpoint)</code></a></li>
+<li><a href="/actions/os/records#os.getFile-url"><code>os.getFile(url, endpoint)</code></a></li>
 <li><a href="/actions/os/portals#os.getFocusPoint"><code>os.getFocusPoint(portal)</code></a></li>
 <li><a href="/actions/os/geolocation#os.getGeolocation"><code>os.getGeolocation()</code></a></li>
 <li><a href="/actions/os/portals#os.getInputList"><code>os.getInputList()</code></a></li>
@@ -134,6 +141,10 @@
 <li><a href="/actions/os/portals#os.getPointerPosition"><code>os.getPointerPosition(pointer)</code></a></li>
 <li><a href="/actions/os/portals#os.getPointerRotation"><code>os.getPointerRotation(pointer)</code></a></li>
 <li><a href="/actions/os/portals#os.getPortalDimension"><code>os.getPortalDimension(portal)</code></a></li>
+<li><a href="/actions/os/records#os.getPrivateFile-result"><code>os.getPrivateFile(result, endpoint)</code></a></li>
+<li><a href="/actions/os/records#os.getPrivateFile-url"><code>os.getPrivateFile(url, endpoint)</code></a></li>
+<li><a href="/actions/os/records#os.getPublicFile-result"><code>os.getPublicFile(result)</code></a></li>
+<li><a href="/actions/os/records#os.getPublicFile-url"><code>os.getPublicFile(url)</code></a></li>
 <li><a href="/actions/os/records#os.getPublicRecordKey"><code>os.getPublicRecordKey(name)</code></a></li>
 <li><a href="/actions/os/records#os.getRecordsEndpoint"><code>os.getRecordsEndpoint()</code></a></li>
 <li><a href="/actions/os/rooms#os.getRoomOptions"><code>os.getRoomOptions(roomName)</code></a></li>
