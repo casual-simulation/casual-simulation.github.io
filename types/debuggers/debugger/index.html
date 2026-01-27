@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.5.2">
 <title data-rh="true">Debugger | CasualOS</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://docs.casualos.com/types/debuggers/debugger"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Debugger | CasualOS"><meta data-rh="true" name="description" content="Defines an interface that represents a debugger."><meta data-rh="true" property="og:description" content="Defines an interface that represents a debugger."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://docs.casualos.com/types/debuggers/debugger"><link data-rh="true" rel="alternate" href="https://docs.casualos.com/types/debuggers/debugger" hreflang="en"><link data-rh="true" rel="alternate" href="https://docs.casualos.com/types/debuggers/debugger" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://TNXB2QF2YB-dsn.algolia.net" crossorigin="anonymous"><link rel="search" type="application/opensearchdescription+xml" title="CasualOS" href="/opensearch.xml"><link rel="stylesheet" href="/assets/css/styles.1c012121.css">
-<script src="/assets/js/runtime~main.b09fb003.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.3a0c093d.js" defer="defer"></script>
 <script src="/assets/js/main.7055487c.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -15,11 +15,11 @@
 <li><a href="/actions/os/event#priorityShout"><code>priorityShout(eventNames, arg)</code></a></li>
 <li><a href="/actions/os/event#shout"><code>shout(name, arg)</code></a></li>
 <li><a href="/actions/data#updateBotLinks"><code>updateBotLinks(bot, idMap)</code></a></li>
+<li><a href="/actions/data#watchBot"><code>watchBot(bot, handler)</code></a></li>
 <li><a href="/actions/os/event#whisper"><code>whisper(bot, eventName, arg)</code></a></li>
 <li><a href="/actions/data#applyDiffToSnapshot"><code>applyDiffToSnapshot(snapshot, diff)</code></a></li>
 <li><a href="/actions/mods#applyMod"><code>applyMod(bot, ...mods)</code></a></li>
 <li><a href="/actions/debuggers#assert"><code>assert(condition, message)</code></a></li>
-<li><a href="/actions/debuggers#assertEqual"><code>assertEqual(first, second)</code></a></li>
 <li><a href="/actions/bot-filters#atPosition"><code>atPosition(dimension, x, y)</code></a></li>
 <li><a href="/actions/bot-filters#byCreator"><code>byCreator(bot)</code></a></li>
 <li><a href="/actions/bot-filters#byID"><code>byID(id)</code></a></li>
@@ -28,6 +28,7 @@
 <li><a href="/actions/bot-filters#byTag"><code>byTag(tag, filter)</code></a></li>
 <li><a href="/actions/os/animations#clearAnimations"><code>clearAnimations(bot, tag)</code></a></li>
 <li><a href="/actions/data#clearTagMasks"><code>clearTagMasks(bot, space)</code></a></li>
+<li><a href="/actions/data#clearWatchBot"><code>clearWatchBot(id)</code></a></li>
 <li><a href="/actions/data#deleteTagMaskText"><code>deleteTagMaskText(bot, tag, index, count, space)</code></a></li>
 <li><a href="/actions/data#deleteTagText"><code>deleteTagText(bot, tag, index, count)</code></a></li>
 <li><a href="/actions/data#diffSnapshots"><code>diffSnapshots(first, second)</code></a></li>
@@ -256,6 +257,7 @@
 <li><a href="/actions/os/files#os.parseBotsFromData"><code>os.parseBotsFromData(jsonOrPdf)</code></a></li>
 <li><a href="/actions/os/records#os.parseVersionKey"><code>os.parseVersionKey(version)</code></a></li>
 <li><a href="/actions/os/audio#os.playSound"><code>os.playSound(url)</code></a></li>
+<li><a href="/actions/os/system#os.promptToInstallPWA"><code>os.promptToInstallPWA()</code></a></li>
 <li><a href="/actions/os/records#os.purchaseStoreItem"><code>os.purchaseStoreItem(recordName, item, options)</code></a></li>
 <li><a href="/actions/os/portals#os.raycast"><code>os.raycast(portal, origin, direction)</code></a></li>
 <li><a href="/actions/os/portals#os.raycastFromCamera"><code>os.raycastFromCamera(portal, viewportCoordinates)</code></a></li>
